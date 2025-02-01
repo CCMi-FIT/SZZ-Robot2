@@ -1,6 +1,6 @@
 # SZZ Robot v2
 
-The Robot is able to fill-in question template files based on a roster table.
+The Robot is a SZZ Chair's delight: it fills in question template files based on a roster table.
 
 ## Requirements
 - Linux system
