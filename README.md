@@ -36,6 +36,8 @@ The roster file must have the following structure:
      - SPOL question text
      - OBOR question text
 
+A roster file example is provided in `roster_example.ods`.
+
 ### Question Template Files
 
 Inside the template files, you need to put markers that are replaced by questions text. The markers have the following
