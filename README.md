@@ -20,7 +20,7 @@ bun install
 
 The directory is supposed to contain:
 - `roster.ods` file with a roster
-- `docx` files with question templates
+- `docx` files with question templates; the files must be named according to the Commission column in roster, e.g. 6-NI-MI.docx
 
 The result is generated into the `otazky` subdirectory.
 
